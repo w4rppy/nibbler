@@ -1,2 +1,8 @@
 # nibbler
-snake with multiple graphic library - shared library usage in C++ - epitech's project.
+Snake with multiple graphic library - Shared library usage in C++ - Epitech's project.
+
+### Credits
+
+* **Dorian 'warp' COLNOT**
+* **Flavien DI-BELLO**
+* **Cédric COLLIN**
