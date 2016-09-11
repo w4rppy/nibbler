@@ -1,5 +1,5 @@
 # nibbler
-Snake with multiple graphic library - Dynamic shared library in C++ - Epitech's project.
+Snake with multiple graphic library - Dynamic shared library in C++
 
 ### Credits
 
